@@ -1,0 +1,22 @@
+{
+    "dialogTitleOptIn": "Join the MEGAJACKPOT",
+    "dialogTextOptIn": "MEGAJACKPOT gives you the chance to win big - opt in to contribute {buyInAmount} on every round.",
+    "dialogTitleOptOut": "Welcome to the MEGAJACKPOT",
+    "dialogTextOptOut": "You are now playing as part of the Megajackpot.",
+
+    "dialogRulesTitle": "Jackpot rules",
+    "dialogRules": [
+        "To participate in the jackpot, the player has to opt in and play a game associated with the jackpot.",
+        "Megajackpot is a progressive jackpot, every contribution increases the value of the jackpot.",
+        "By opting in, the player agrees to be debited for every contribution towards the jackpot, which will be drawn after each game round in the associated game.",
+        "The cost per contribution is {buyInAmount} and can not be changed.",
+        "To add a contribution to the jackpot, the bet in the assocated game has to be above {buyInAmount}.",
+        "Contributions to the jackpot can be placed with either real money or bonus money."
+    ],
+    "optIn": "Opt-In",
+    "optOut": "Opt-Out",
+    "mini": "MINI",
+    "minor": "MINOR",
+    "major": "MAJOR",
+    "mega": "MEGA"
+}
