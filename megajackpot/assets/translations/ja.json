@@ -3,8 +3,7 @@
     "dialogTextOptIn": "MEGAJACKPOTは大きな勝利のチャンスを提供します - ラウンドごとに{buyInAmount}を貢献するためにオプトインしてください。",
     "dialogTitleOptOut": "MEGAJACKPOTへようこそ",
     "dialogTextOptOut": "あなたは現在、Megajackpotの一部としてプレイしています。",
-    "dialogOtherWinTitle": "誰かが",
-    "dialogOtherWinText": "{jackpotSize} ジャックポット!",
+    "dialogOtherPlayerWonTitle": "誰かが{jackpotSize}のジャックポット{jackpotAmount}を当てました！",
     "dialogRulesTitle": "ジャックポットのルール",
     "dialogRules": [
         "ジャックポットに参加するには、プレイヤーはオプトインして、ジャックポットに関連するゲームをプレイする必要があります。",

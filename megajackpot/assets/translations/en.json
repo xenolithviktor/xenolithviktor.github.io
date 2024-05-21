@@ -3,8 +3,7 @@
     "dialogTextOptIn": "MEGAJACKPOT gives you the chance to win big - opt in to contribute {buyInAmount} on every round.",
     "dialogTitleOptOut": "Welcome to the MEGAJACKPOT",
     "dialogTextOptOut": "You are now playing as part of the Megajackpot.",
-    "dialogOtherWinTitle": "Someone won the",
-    "dialogOtherWinText": "{jackpotSize} jackpot!",
+    "dialogOtherPlayerWonTitle": "Someone won the {jackpotSize} jackpot of {jackpotAmount}!",
     "dialogRulesTitle": "Jackpot rules",
     "dialogRules": [
         "To participate in the jackpot, the player has to opt in and play a game associated with the jackpot.",
